@@ -198,7 +198,29 @@ font-size: 3vw;
   font-weight: 500;
 }
 
+/*** Animations **/
 
+.nav-link:hover, a {
+    text-decoration: underline;
+    }
+    
+    
+    
+    
+    .background-masthead { 
+        animation: fadeIn 2s; 
+    }
+        @keyframes fadeIn {
+      0% { translate: -100%; }
+      100% { translate: 0%; }
+    }
+    
+    
+    @keyframes animate_progress {
+      0% { translate: -100%; }
+      100% { translate: 0%; }
+    }
+    
 
 }
 

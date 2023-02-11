@@ -108,7 +108,20 @@ font-size: 5vw;
     height: 15vw;
 }
 
-/** Spécifique Page DONS  END ***/
+/** Spécifique Page DONS  START ***/
+
+
+
+
+/** Spécifique Page Projets **/
+svg {
+
+    width:30vw;
+}
+/** Spécifique Page Projets END **/
+
+
+/** Spécifique Version ordinateur / tablette START ***/
 
 @media screen and (min-width: 992px) { 
 
@@ -257,6 +270,6 @@ font-size: 2vw;
     
 
 }
-
+/** Spécifique Version ordinateur / tablette END ***/
 
 

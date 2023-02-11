@@ -1,0 +1,204 @@
+
+h1,.h1{
+
+    font-size: 8vw;
+}
+
+h3,.h3 {
+
+font-size: 4.2vw;
+font-weight: 250;
+
+}
+
+h4,.h4 {
+
+    font-size: 5vw;
+    font-weight: 300;
+}
+
+h5,.h5 {
+    font-size: 4vw;
+    font-weight: 200;
+}
+
+.text-brand {
+
+    font-size: 4.5vw; 
+    font-weight:600
+}
+
+.img-brand {
+    width: 20vw;
+}
+
+.display-4  {
+
+font-size: 7vw;
+font-weight: 600;
+}
+
+.btn-mobile {
+
+font-size: 5vw;
+}
+
+
+.navbar-toggler {
+    border: none;
+    outline: none;
+    color: black;
+  }
+  .navbar-toggler:focus {
+      outline: none;
+      box-shadow: none;
+  }
+
+
+  .background-masthead {
+background-color: rgba(255, 167, 3, 0.498);
+
+}
+
+.progress, .display-1 {
+    height: 15vw;
+   margin-left: 0px;
+    font-size: 4.7vw;
+    font-weight: 500;
+    border-radius: 10px
+}
+
+.fa-solid {
+
+    font-size: 8vw;
+}
+
+
+
+.img-don {
+    height: 30vw;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+/** Spécifique Page DON ***/
+form {
+    border-top: 5px solid #1b72d6;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,.075);
+    background-color: #fff;
+    padding: 0;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .p-dons {
+
+    font-size: 4vw;
+    font-weight: 400;
+    }
+
+
+/** Spécifique Page Projets **/
+svg {
+
+    width:30vw;
+}
+
+
+
+@media screen and (min-width: 992px) { 
+
+
+    .background-masthead {
+background-color: rgba(255, 255, 255, 0.286);
+width: 45vmax;
+}
+
+h1,.h1{
+
+font-size: 3vw;
+font-weight: 300;
+}
+
+h3,.h3{
+
+font-size: 1.5vw;
+font-weight: 200;
+}
+
+h4,.h4 {
+    
+    font-size: 1.5vw;
+}
+
+.display-4 {
+
+    font-size: 2vw;
+}
+
+h5,.h5 {
+
+    font-size: 1.2vw;
+}
+
+.text-brand {
+
+    font-size: 2vw; font-weight:600"
+}
+
+.text-parcours:first-child {
+
+color:#dc3545
+}
+
+.text-parcours {
+
+color:black;
+font-weight: 300;
+}
+
+.img-brand {
+    width: 20vmin;
+}
+
+.btn-mobile {
+
+    font-size: 1.4vw;
+  
+}
+
+.progress, .display-1 {
+    height: 5vw;
+   margin-left: 0px;
+    font-size: 2vw;
+    font-weight: 500;
+    border-radius: 10px
+}
+
+.fa-solid {
+
+font-size: 3vw;
+}
+
+.img-don {
+    height: 10vw;
+}
+
+.img-fluid {
+
+    height: 14vw;
+}
+
+.text-center, .h1 {
+  font-size: 2vw;
+  font-weight: 500;
+}
+
+
+
+}
+

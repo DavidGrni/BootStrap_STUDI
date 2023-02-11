@@ -84,31 +84,31 @@ a {
     text-decoration-color: white;
 }
 
-/** Spécifique Page DON ***/
+/** Spécifique Page DONS START ***/
 form {
     border-top: 5px solid #1b72d6;
     border-radius: 10px;
     box-shadow: 0px 2px 10px rgba(0,0,0,.075);
     background-color: #fff;
-    padding: 0;
-    max-width: 600px;
-    margin: auto;
+    font-size: 4vw;
+
   }
 
-  .p-dons {
+  form h2 {
+font-size: 6vw;
+  }
 
+.form-control {
     font-size: 4vw;
-    font-weight: 400;
-    }
-
-
-/** Spécifique Page Projets **/
-svg {
-
-    width:30vw;
+  height: 12vw;
 }
 
+form .btn {
+font-size: 5vw;
+    height: 15vw;
+}
 
+/** Spécifique Page DONS  END ***/
 
 @media screen and (min-width: 992px) { 
 
@@ -198,15 +198,49 @@ font-size: 3vw;
   font-weight: 500;
 }
 
+/** Spécifique Page DONS START ***/
+form {
+max-width: 50%;
+font-size: 2vw;
+  }
+
+  .title {
+
+    font-size: 1.5vw;
+  }
+  
+  form h2 {
+font-size: 1vw;
+  }
+
+  form h3 {
+    font-size: 1.5vw;
+      }
+
+  .form-label {
+  font-size: 1vw;
+}
+.form-control {
+    font-size: 1vw;
+  height: 2vw;
+}
+
+form .btn {
+font-size: 2vw;
+    height: auto;
+}
+
+/** Spécifique Page DONS  END ***/
+
+
+
+
 /*** Animations **/
 
 .nav-link:hover, a {
     text-decoration: underline;
     }
-    
-    
-    
-    
+
     .background-masthead { 
         animation: fadeIn 2s; 
     }
@@ -223,4 +257,6 @@ font-size: 3vw;
     
 
 }
+
+
 

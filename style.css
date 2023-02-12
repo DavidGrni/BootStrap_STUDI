@@ -83,6 +83,13 @@ a {
     text-decoration-color: white;
 }
 
+.nav-item, .nav-item button  {
+font-size: 4vw;
+}
+
+
+
+
 /** Spécifique Page DONS START ***/
 form {
     border-top: 5px solid #1b72d6;
@@ -171,8 +178,10 @@ h5,.h5 {
 
 .text-brand {
 
-    font-size: 2vw; font-weight:600"
+    font-size: 2vw; 
+    font-weight:600;
 }
+
 
 .text-parcours:first-child {
 
@@ -221,6 +230,13 @@ font-size: 3vw;
   font-size: 2vw;
   font-weight: 500;
 }
+
+.nav-item, .nav-item button  {
+    font-size: 1.2vw;
+    font-weight: 700;
+    }
+    
+
 
 /** Spécifique Page DONS START ***/
 form {

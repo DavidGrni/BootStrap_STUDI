@@ -74,7 +74,6 @@ background-color: rgba(255, 167, 3, 0.498);
 }
 
 
-
 .img-don {
     height: 30vw;
 }
@@ -108,7 +107,7 @@ font-size: 5vw;
     height: 15vw;
 }
 
-/** Spécifique Page DONS  START ***/
+/** Spécifique Page DONS  END ***/
 
 
 
@@ -119,6 +118,18 @@ svg {
     width:30vw;
 }
 /** Spécifique Page Projets END **/
+
+
+/** Spécifique Page Evènements START **/
+
+.select_date {
+flex: auto;
+font-size: 4vw; 
+}
+
+
+/** Spécifique Page Evènements END **/
+
 
 
 /** Spécifique Version ordinateur / tablette START ***/
@@ -246,6 +257,14 @@ font-size: 2vw;
 /** Spécifique Page DONS  END ***/
 
 
+/** Spécifique Page Evènements START **/
+
+.select_date {
+    font-size: 1.3vw;
+}
+
+
+/** Spécifique Page Evènements END **/
 
 
 /*** Animations **/

@@ -2,11 +2,11 @@
 
 ## Sommaire
 
-1. [Accueil](#index.html)
-2. [Dons](#dons.html)
-3. [Projets](#projets.html)
-4. [Evènements](#event.html)
-5. [Style](#style.css)
+1. [Accueil](/index.html)
+2. [Dons](/dons.html)
+3. [Projets](/projets.html)
+4. [Evènements](/event.html)
+5. [Style](/style.css)
 
 
 ## Accès au site web
